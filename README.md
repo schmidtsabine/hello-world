@@ -4,5 +4,5 @@ A few weeks ago I met a unicorn in the forest and it told me that during corona 
 
 I now try to help the unicorn by letting the world know its story via Github. 
 
-I was told that Github is a widely used platform, especially in the world of IT. And the unicorn really likes IT poeple. So this might be a good place to find some nice people who may go and visit the unicorn in the forest. 
+I was told that Github is a widely used platform, especially in the world of IT. And the unicorn really likes IT poeple. So this might be a good place to find some nice people who may go and visit the unicorn in the forest again. 
 
